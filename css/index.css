@@ -54,14 +54,14 @@ p {
   background-image: url(../images/Jumbo-bkgrnd.jpeg);
   background-size: cover;
   background-repeat: no-repeat;
-  height: calc(100vh - 25px);
+  height: calc(75vh - 340px);
   display: flex;
   align-items: center;
   justify-content: center;
 }
 
-/* Jumbotron copy */
-.jumboCopy {
+/* Jumbo-bkgrnd2 */
+.Jumbo-bkgrnd2 {
   width: 70%;
   min-width: 500px;
   max-width: 700px;
