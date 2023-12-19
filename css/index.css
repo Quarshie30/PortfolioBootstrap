@@ -7,7 +7,9 @@ p {
 }
 
 /* Navigation bar */
-
+.h1{
+  text-align: center;
+}
 /* General */
 .customNav {
   position: fixed;
@@ -84,9 +86,16 @@ footer {
 .cardContainer {
   margin-top: 20px;
 }
-.card {
+.Workcard {
   margin: 0 auto;
+  text-align: center;
 }
+
+.Skillscard {
+  margin: 0 auto;
+  text-align: center;
+}
+
 .h4{
   text-align: center;
 }
