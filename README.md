@@ -76,13 +76,16 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 ## Features
+- **Meta Tags:** Sets the main font and view ports required to access Bootstrap docs
+
+- **Bootstrap:** Bootstrap links used for referencing styles
 
 - **Header:** The website features a fixed header with the Horiseon logo, navigation links, and a sleek design.
 
-- **Hero Banner:** A visually appealing hero section with a background image along with a profile picture 
+- **Navigation Bar:** A navigation bar consisting of a dropdown menu to link to various sections with the portfolio
 
-- **Page Wrapper:** Over arching code used to control Portfolio & Contact area displayed in a grid 
+- **Jumbotron:** Overhead banner with title of portfolio and work with Bootcamp
   
-- **Portfolio:** Main body holding content and skills
+- **Container/Cards:** Section utilising the use of container and cards to showcase work and skills.
   
 - **Footer:** A footer section displaying contact details
