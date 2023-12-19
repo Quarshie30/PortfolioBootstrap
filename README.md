@@ -1,10 +1,5 @@
 # READ ME
 
-**Eyram Tetteh - Web Developer Portfolio**
-
-This repository contains the HTML and CSS code for Eyram Tetteh's web developer portfolio. The portfolio showcases Eyram's personal and professional information, including an introduction, work samples, skills, and contact details.
-
-
 ## Introduction
 
 This repository contains the HTML and CSS code for Eyram Tetteh's web developer portfolio. The portfolio showcases Eyram's personal and professional information, including an introduction, work samples, skills, and contact details. The portfolio highlights the cards and grid features used from the bootstrap website, futhermore a fixed banner and navigation dropdown list.
