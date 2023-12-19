@@ -50,8 +50,8 @@ p {
 }
 
 /* Jumbotron  */
-.rockBackground {
-  background-image: url(../images/rockOn_dark.jpg);
+.Jumbo-bkgrnd {
+  background-image: url(../images/Jumbo-bkgrnd.jpeg);
   background-size: cover;
   background-repeat: no-repeat;
   height: calc(100vh - 25px);
